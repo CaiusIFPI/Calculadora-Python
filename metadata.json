@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python - Quatro Operações Básicas",
+  "description": "Calculadora interativa completa com as quatro operações matemáticas básicas (adição, subtração, multiplicação e divisão) desenvolvida em Python com terminal REPL e console interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
